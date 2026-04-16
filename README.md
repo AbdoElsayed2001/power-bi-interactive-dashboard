@@ -34,8 +34,11 @@ The focus was on building a **clean, modern, and user-friendly dashboard** that 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](assets/dashboard-preview.png)
-
+<div style="display:flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://github.com/AbdoElsayed2001/power-bi-interactive-dashboard/blob/main/assets/1.PNG" width="500" alt="Screenshot 1"/>
+    <img src="https://github.com/AbdoElsayed2001/power-bi-interactive-dashboard/blob/main/assets/2.PNG"  width="500" alt="Screenshot 1"/>
+</div>
+   
 ---
 
 ## 💡 Key Highlights
